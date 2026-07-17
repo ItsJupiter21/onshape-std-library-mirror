@@ -10,7 +10,9 @@ export enum AnnotationAttachmentLocation
 {
     TOP_MIDDLE,
     BOTTOM_MIDDLE,
-    OPPOSITE_LEADER_EDGE
+    OPPOSITE_LEADER_EDGE,
+    LEFT_MIDDLE,
+    RIGHT_MIDDLE
 }
 
 
